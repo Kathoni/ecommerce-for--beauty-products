@@ -1,0 +1,32 @@
+.navbar-brand i {
+    color: black;
+}
+.carousel-container {
+            display: flex;
+            justify-content: center;
+            text-align: center;
+            margin-top: 20px;
+            width: 50%;
+        }
+        .carousel-inner img {
+            width: 100%;
+            height: auto;
+            margin-bottom: auto;
+        }
+.card {
+
+
+  }
+h1{
+    justify-content: center;
+    display: flex;
+    margin-top: 10px;
+}
+h2{
+    justify-content: center;
+    display: flex;
+}
+p{
+    justify-content: center;
+    display: flex;
+}
